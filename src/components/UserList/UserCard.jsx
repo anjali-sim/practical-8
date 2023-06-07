@@ -24,6 +24,7 @@ function UserCard(props) {
     <>
       <div className="activeStyle">Active</div>
       <div className="ownerStyle">Owner</div>
+      
       <Lock color="#999999" />
     </>
   );
